@@ -37,8 +37,6 @@ The Standard Model is an amazing creation of human creativity and tenacity, the 
 
 <img src="img/standard_model.png" align="center"/>
 
-Supersymmetry 
-
 <img src="img/susy_particles.png" align="center"/>
 
 Supersymmetry matches every particle in the Standard Model with a superpartner, unifying fermions and bosons in a surprising new symmetry.
@@ -48,8 +46,6 @@ Supersymmetry matches every particle in the Standard Model with a superpartner, 
 The results of our studies are promising, but more work remains to increase the accuracy of SUSY signature detection beyond the current plateau around an accuracy of 0.80 that we see. 
 
 <img src="img/bars.jpg" align="center"/>
-
-We see that the biggest increase in model performance comes with the move to ensembling strategies (i.e., bagging, boosting, stacking), the differences in the ensembling strategies have only marginal effects (though boosting does outperform bagging as is generally expected). Note that the AutoML stacking strategies was only allowed to run briefly, performance will likely improve with additional computational resourcces devoted to this thrust.
 
 A final thought from Frank Wilczek:
 
