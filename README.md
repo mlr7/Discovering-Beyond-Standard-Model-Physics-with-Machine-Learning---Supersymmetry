@@ -51,3 +51,4 @@ A final thought from Frank Wilczek:
 
 "Supersymmetry was (and is) a beautiful mathematical idea. The problem with applying supersymmetry is that it is too good for this world. We simply do not find particles of the sort it predicts. We do not, for example, see particles with the same charge and mass as electrons, but a different amount of spin. However, symmetry principles that might help to unify fundamental physics are hard to come by, so theoretical physicists do not give up on them easily." (Wilczek, Frank. The lightness of being: Mass, ether, and the unification of forces. Basic Books (AZ), 2008.) 
 
+My own thought: The universe never disappoints. If supersymmetry is not true, then nature has something better and deeper in store for particle physics. Let's find it!
